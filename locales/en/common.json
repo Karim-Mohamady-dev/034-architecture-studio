@@ -1,0 +1,420 @@
+{
+  "metaTitle": "Atelier North | Architecture studio",
+  "metaDescription": "Atelier North designs homes, workplaces and cultural buildings. See featured projects and start a conversation about yours.",
+  "brand": "Atelier North",
+  "brandIcon": "pencil",
+  "nav": {
+    "language": "Language",
+    "menu": "Menu",
+    "cta": "Start a project",
+    "links": [
+      {
+        "id": "collection",
+        "label": "Projects"
+      },
+      {
+        "id": "benefits",
+        "label": "Why us"
+      },
+      {
+        "id": "how",
+        "label": "How it works"
+      },
+      {
+        "id": "people",
+        "label": "Studio"
+      },
+      {
+        "id": "pricing",
+        "label": "Fees"
+      },
+      {
+        "id": "faq",
+        "label": "Questions"
+      }
+    ]
+  },
+  "hero": {
+    "eyebrow": "Architecture studio, Cairo",
+    "title": "Buildings that",
+    "titleAccent": "earn their place",
+    "sub": "We design homes, workplaces and cultural buildings that fit their street, their climate and the people who use them every day.",
+    "cta": "Start a project",
+    "secondary": "See featured projects",
+    "proof": "Our drawings are buildable. Every line is checked against structure, light and cost before it leaves the studio.",
+    "alt": "Blueprint style line drawing of a house with a grid background"
+  },
+  "benefits": {
+    "eyebrow": "Why Atelier North",
+    "title": "Design that survives contact with reality",
+    "items": [
+      {
+        "icon": "pencil",
+        "title": "Drawn to be built",
+        "body": "Structure, services and cost are worked through in the drawing, not discovered on site."
+      },
+      {
+        "icon": "compass",
+        "title": "Designed for the climate",
+        "body": "Shade, breeze and sun are planned first, so rooms stay cool without working hard."
+      },
+      {
+        "icon": "users",
+        "title": "Built with the client",
+        "body": "You see the model at each stage and change it while change is still cheap."
+      },
+      {
+        "icon": "shield",
+        "title": "On site until the end",
+        "body": "We visit the site through construction and check the work against the drawings."
+      }
+    ]
+  },
+  "tagline": "A good building is quiet. It gives you shade at noon, light in the morning, and a room that feels right before you know why.",
+  "how": {
+    "eyebrow": "How it works",
+    "title": "From first sketch to finished building",
+    "steps": [
+      {
+        "title": "Listen and measure",
+        "body": "We walk the site with you, study the light and the rules, and agree the brief in writing."
+      },
+      {
+        "title": "Design in stages",
+        "body": "Concept, then developed design, then construction drawings, each shown to you before we move on."
+      },
+      {
+        "title": "Build and check",
+        "body": "We help you choose a builder, then visit the site and check the work as it rises."
+      }
+    ]
+  },
+  "collection": {
+    "eyebrow": "Featured projects",
+    "title": "Work from the studio",
+    "sub": "Sample projects. Figures shown are demo figures for this page.",
+    "searchLabel": "Search projects",
+    "searchPlaceholder": "Search by name or place",
+    "filterLabel": "Filter by type",
+    "allLabel": "All",
+    "emptyTitle": "No project matches this search",
+    "emptyBody": "Try a different word or clear the filters to see every project.",
+    "clearFilters": "Clear filters",
+    "viewDetails": "View details",
+    "askAbout": "Ask about this project",
+    "sampleLabel": "Sample project",
+    "items": [
+      {
+        "id": "a1",
+        "category": "House",
+        "icon": "house",
+        "title": "Courtyard house, Zamalek",
+        "location": "Zamalek, Cairo",
+        "meta1": "Residential",
+        "meta2": "Completed 2024",
+        "meta3": "412 m²",
+        "price": "Private house",
+        "tag": "Completed",
+        "desc": "A family house arranged around a shaded courtyard, with bedrooms that catch the morning breeze."
+      },
+      {
+        "id": "a2",
+        "category": "Workplace",
+        "icon": "buildings",
+        "title": "Riverside studio offices",
+        "location": "Maadi, Cairo",
+        "meta1": "Workplace",
+        "meta2": "Completed 2023",
+        "meta3": "1,280 m²",
+        "price": "Office building",
+        "tag": "Completed",
+        "desc": "Two floors of open studios above a shared ground floor, with deep balconies against the afternoon sun."
+      },
+      {
+        "id": "a3",
+        "category": "Cultural",
+        "icon": "compass",
+        "title": "The small library",
+        "location": "6th of October City",
+        "meta1": "Cultural",
+        "meta2": "Completed 2024",
+        "meta3": "640 m²",
+        "price": "Public building",
+        "tag": "Completed",
+        "desc": "A neighbourhood library with one long reading room, a garden court and a roof that shades the street."
+      },
+      {
+        "id": "a4",
+        "category": "House",
+        "icon": "house",
+        "title": "Desert edge house",
+        "location": "El Gouna",
+        "meta1": "Residential",
+        "meta2": "In progress",
+        "meta3": "356 m²",
+        "price": "Private house",
+        "tag": "In progress",
+        "desc": "A low house on the desert edge, with thick walls, small west windows and a courtyard open to the sky."
+      },
+      {
+        "id": "a5",
+        "category": "Workplace",
+        "icon": "buildings",
+        "title": "Workshop and showroom",
+        "location": "New Cairo",
+        "meta1": "Workplace",
+        "meta2": "Completed 2022",
+        "meta3": "930 m²",
+        "price": "Mixed use",
+        "tag": "Completed",
+        "desc": "A furniture workshop with a street showroom, where making and selling share one honest space."
+      },
+      {
+        "id": "a6",
+        "category": "Cultural",
+        "icon": "compass",
+        "title": "Gallery in the old town",
+        "location": "Downtown Cairo",
+        "meta1": "Cultural",
+        "meta2": "In progress",
+        "meta3": "510 m²",
+        "price": "Public building",
+        "tag": "In progress",
+        "desc": "A careful conversion of a 1920s hall into a gallery, keeping the old walls and adding light from above."
+      }
+    ]
+  },
+  "people": {
+    "eyebrow": "The studio",
+    "title": "A small studio, on site often",
+    "sub": "Architects, an engineer and a model maker, working on a few projects at a time.",
+    "items": [
+      {
+        "icon": "pencil",
+        "name": "Layla Hassan",
+        "role": "Founding architect",
+        "body": "Layla leads design and has drawn houses and public buildings across Egypt for fifteen years."
+      },
+      {
+        "icon": "users",
+        "name": "Omar Sabry",
+        "role": "Architect",
+        "body": "Omar leads workplace projects and the studio model making, where ideas are tested by hand."
+      },
+      {
+        "icon": "compass",
+        "name": "Mona Adel",
+        "role": "Project architect",
+        "body": "Mona runs site visits and keeps drawings, builders and budgets in agreement."
+      },
+      {
+        "icon": "shield",
+        "name": "Hatem Nour",
+        "role": "Structural engineer",
+        "body": "Hatem checks every structure before it is drawn for construction."
+      }
+    ]
+  },
+  "proof": {
+    "eyebrow": "What clients say",
+    "title": "Clients who live and work in our buildings",
+    "sampleLabel": "Sample testimonial",
+    "items": [
+      {
+        "quote": "The house is cool at noon without air conditioning. The shade was drawn into the plan, not added later.",
+        "name": "Dina El Ashry",
+        "role": "Client, courtyard house"
+      },
+      {
+        "quote": "We saw a model at every stage. By the time we built, there were no surprises left.",
+        "name": "Karim El Tayeb",
+        "role": "Client, studio offices"
+      },
+      {
+        "quote": "They visited the site every week and caught mistakes before they became expensive.",
+        "name": "Sara Mokhtar",
+        "role": "Client, the small library"
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Fees",
+    "title": "How design fees are arranged",
+    "sub": "Fees depend on the size and stage of the project. They are agreed in writing before design starts.",
+    "note": "All figures are confirmed in writing before work starts. An introductory meeting is free.",
+    "plans": [
+      {
+        "name": "Concept design",
+        "price": "{{concept fee}}",
+        "per": "Per project, fixed",
+        "cta": "Discuss a concept",
+        "featured": false,
+        "features": [
+          "Site study and written brief",
+          "Concept sketches and a study model",
+          "A cost range before you commit further"
+        ]
+      },
+      {
+        "name": "Full design",
+        "price": "{{design fee}}",
+        "per": "Per project, staged",
+        "cta": "Discuss full design",
+        "featured": true,
+        "features": [
+          "Concept through construction drawings",
+          "Structure and services coordinated",
+          "Builder tender documents included"
+        ]
+      },
+      {
+        "name": "Design and site",
+        "price": "{{full fee}}",
+        "per": "Per project, staged",
+        "cta": "Discuss design and site",
+        "featured": false,
+        "features": [
+          "Everything in full design",
+          "Regular site visits during construction",
+          "Final check before handover"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Questions clients ask before we start",
+    "items": [
+      {
+        "q": "How long does a house design take?",
+        "a": "A typical house takes three to five months from brief to construction drawings, depending on size and approvals."
+      },
+      {
+        "q": "Do you handle building permits?",
+        "a": "Yes. We prepare the permit drawings and follow the file, but the decision and timing sit with the authority."
+      },
+      {
+        "q": "Can you work with our builder?",
+        "a": "Yes. We work with the builder you choose, or introduce builders we have worked with before."
+      },
+      {
+        "q": "What do you need from us to start?",
+        "a": "The site papers, a survey if you have one, and a conversation about how you live and what the budget allows."
+      },
+      {
+        "q": "How are fees calculated?",
+        "a": "Fees depend on the project size and the stages you choose. They are agreed in writing before design starts."
+      },
+      {
+        "q": "Do you design interiors too?",
+        "a": "We design the fixed interiors of our buildings, such as kitchens and joinery, and we work with interior designers for loose furniture."
+      }
+    ]
+  },
+  "form": {
+    "eyebrow": "Start a project",
+    "title": "Tell us about your building",
+    "sub": "A short note is enough. We will reply within two working days and arrange a meeting at the studio or on site.",
+    "name": "Full name",
+    "namePh": "Your full name",
+    "email": "Email",
+    "emailPh": "name@example.com",
+    "phone": "Phone",
+    "phonePh": "+20 100 000 0000",
+    "type": "Project type",
+    "typePlaceholder": "Choose one",
+    "typeOptions": [
+      "A private house",
+      "A workplace",
+      "A cultural building",
+      "A renovation"
+    ],
+    "message": "Tell us about the site and the building",
+    "messagePh": "Place, size, what it is for",
+    "submit": "Send my project note",
+    "successTitle": "Note received",
+    "successBody": "Thank you. We will reply within two working days.",
+    "sendAnother": "Send another note",
+    "errors": {
+      "required": "This field is required",
+      "email": "Enter an email address in the format name@example.com",
+      "phone": "Enter a phone number with at least 7 digits"
+    },
+    "savedNote": "Requests saved in this browser: {{count}}"
+  },
+  "finalCta": {
+    "title": "Have a site and an idea?",
+    "sub": "Bring both to the studio. We will draw the first sketch together and tell you honestly what it will take.",
+    "cta": "Start a project"
+  },
+  "footer": {
+    "about": "Atelier North is a Cairo architecture studio designing houses, workplaces and cultural buildings.",
+    "columns": [
+      {
+        "title": "Explore",
+        "links": [
+          {
+            "label": "Projects",
+            "href": "collection"
+          },
+          {
+            "label": "Why us",
+            "href": "benefits"
+          },
+          {
+            "label": "How it works",
+            "href": "how"
+          },
+          {
+            "label": "Questions",
+            "href": "faq"
+          }
+        ]
+      },
+      {
+        "title": "Studio",
+        "links": [
+          {
+            "label": "The studio",
+            "href": "people"
+          },
+          {
+            "label": "Fees",
+            "href": "pricing"
+          },
+          {
+            "label": "Contact",
+            "href": "contact"
+          },
+          {
+            "label": "Start a project",
+            "href": "contact"
+          }
+        ]
+      }
+    ],
+    "legalTitle": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "privacyTitle": "Privacy policy",
+    "privacyBody": "We use the details you share only to answer your note. We do not sell your details. You can ask us to delete them at any time.",
+    "termsTitle": "Terms of service",
+    "termsBody": "Projects on this page are samples for demonstration. Fees and timelines are confirmed in writing before any work starts.",
+    "rights": "© 2026 Atelier North. All rights reserved.",
+    "backTop": "Back to top"
+  },
+  "cookie": {
+    "text": "We use a small cookie to remember your language choice and your saved requests.",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "notFound": {
+    "title": "This page does not exist",
+    "body": "The link you followed may be out of date. Go back to the home page and start again.",
+    "back": "Back to home"
+  },
+  "misc": {
+    "skip": "Skip to content",
+    "close": "Close"
+  }
+}
