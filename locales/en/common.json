@@ -115,7 +115,8 @@
         "meta3": "412 m²",
         "price": "Private house",
         "tag": "Completed",
-        "desc": "A family house arranged around a shaded courtyard, with bedrooms that catch the morning breeze."
+        "desc": "A family house arranged around a shaded courtyard, with bedrooms that catch the morning breeze.",
+        "image": "https://images.pexels.com/photos/1974596/pexels-photo-1974596.jpeg?cs=tinysrgb&dpr=1&w=500"
       },
       {
         "id": "a2",
@@ -128,7 +129,8 @@
         "meta3": "1,280 m²",
         "price": "Office building",
         "tag": "Completed",
-        "desc": "Two floors of open studios above a shared ground floor, with deep balconies against the afternoon sun."
+        "desc": "Two floors of open studios above a shared ground floor, with deep balconies against the afternoon sun.",
+        "image": "https://images.pexels.com/photos/16631149/pexels-photo-16631149/free-photo-of-windows-and-white-walls-in-building.jpeg?cs=tinysrgb&dpr=1&w=500"
       },
       {
         "id": "a3",
@@ -141,7 +143,8 @@
         "meta3": "640 m²",
         "price": "Public building",
         "tag": "Completed",
-        "desc": "A neighbourhood library with one long reading room, a garden court and a roof that shades the street."
+        "desc": "A neighbourhood library with one long reading room, a garden court and a roof that shades the street.",
+        "image": "https://images.pexels.com/photos/23639035/pexels-photo-23639035/free-photo-of-modern-house-building.jpeg?cs=tinysrgb&dpr=1&w=500"
       },
       {
         "id": "a4",
@@ -154,7 +157,8 @@
         "meta3": "356 m²",
         "price": "Private house",
         "tag": "In progress",
-        "desc": "A low house on the desert edge, with thick walls, small west windows and a courtyard open to the sky."
+        "desc": "A low house on the desert edge, with thick walls, small west windows and a courtyard open to the sky.",
+        "image": "https://images.pexels.com/photos/6342356/pexels-photo-6342356.jpeg?cs=tinysrgb&dpr=1&w=500"
       },
       {
         "id": "a5",
@@ -167,7 +171,8 @@
         "meta3": "930 m²",
         "price": "Mixed use",
         "tag": "Completed",
-        "desc": "A furniture workshop with a street showroom, where making and selling share one honest space."
+        "desc": "A furniture workshop with a street showroom, where making and selling share one honest space.",
+        "image": "https://images.pexels.com/photos/20296321/pexels-photo-20296321/free-photo-of-suburban-house-with-a-canal-in-the-foreground.jpeg?cs=tinysrgb&dpr=1&w=500"
       },
       {
         "id": "a6",
@@ -180,7 +185,8 @@
         "meta3": "510 m²",
         "price": "Public building",
         "tag": "In progress",
-        "desc": "A careful conversion of a 1920s hall into a gallery, keeping the old walls and adding light from above."
+        "desc": "A careful conversion of a 1920s hall into a gallery, keeping the old walls and adding light from above.",
+        "image": "https://images.pexels.com/photos/39385164/pexels-photo-39385164/free-photo-of-dynamic-view-of-rotterdam-s-iconic-cube-houses.jpeg?cs=tinysrgb&dpr=1&w=500"
       }
     ]
   },
