@@ -247,11 +247,11 @@
     "eyebrow": "Fees",
     "title": "How design fees are arranged",
     "sub": "Fees depend on the size and stage of the project. They are agreed in writing before design starts.",
-    "note": "All figures are confirmed in writing before work starts. An introductory meeting is free.",
+    "note": "Demo pricing — all figures are confirmed in writing before work starts. An introductory meeting is free.",
     "plans": [
       {
         "name": "Concept design",
-        "price": "{{concept fee}}",
+        "price": "$2,500",
         "per": "Per project, fixed",
         "cta": "Discuss a concept",
         "featured": false,
@@ -263,7 +263,7 @@
       },
       {
         "name": "Full design",
-        "price": "{{design fee}}",
+        "price": "$8,500",
         "per": "Per project, staged",
         "cta": "Discuss full design",
         "featured": true,
@@ -275,7 +275,7 @@
       },
       {
         "name": "Design and site",
-        "price": "{{full fee}}",
+        "price": "$14,000",
         "per": "Per project, staged",
         "cta": "Discuss design and site",
         "featured": false,
